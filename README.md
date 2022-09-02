@@ -28,6 +28,6 @@ open insomnia and begin by using CRUD operations and utilizing the routes which 
 
 [Demo Walkthrough](https://youtu.be/1OXCz94EXoY)
 
-![Screenshot 1](./public/assets/note-taker-home.png)
+![Screenshot 1](./assets/ecommerce-SS1.png)
 
-![Screenshot 2](./public/assets/note-taker-notes.png)
+![Screenshot 2](./assets/ecommerce-SS2.png)
