@@ -31,3 +31,7 @@ open insomnia and begin by using CRUD operations and utilizing the routes which 
 ![Screenshot 1](./assets/ecommerce-SS1.png)
 
 ![Screenshot 2](./assets/ecommerce-SS2.png)
+
+## Author
+- GitHub: davidpascual2
+- Email: davidpascual200@gmail.com
